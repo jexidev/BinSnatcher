@@ -57,3 +57,9 @@ This project is licensed under the MIT License.
 
 Created by JexiDev
 Built with empathy, speed, and a touch of chaos.
+
+## Need to Verify Your .dll Files?
+
+Check out [DLLSniffer](https://github.com/jexidev/DLLSniffer) — a lightweight scanner that helps identify the origin and trust level of `.dll` files throughout their System.
+
+Perfect companion tool for BinSnatcher users who want to stay safe while organizing their game installs.
